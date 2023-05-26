@@ -1,0 +1,9 @@
+* lru-cache
+
+A least-recently-used cache datastructure
+
+|---------+-----------------------------------------------|
+| source  | git:https://github.com/Shinmera/lru-cache.git |
+| commit  | 2eda71a                                       |
+| systems | lru-cache                                     |
+|---------+-----------------------------------------------|
