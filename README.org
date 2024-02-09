@@ -4,6 +4,6 @@ A least-recently-used cache datastructure
 
 |---------+-----------------------------------------------|
 | source  | git:https://github.com/Shinmera/lru-cache.git |
-| commit  | 8510876                                       |
+| commit  | a43747f                                       |
 | systems | lru-cache                                     |
 |---------+-----------------------------------------------|
